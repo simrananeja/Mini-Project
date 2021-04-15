@@ -75,7 +75,7 @@ The earliest management system for schools was developed in 1978 by Raymond Bily
 Schools,Colleges,Tution Centres and Universities in almost all technologically developing and developed nations.
 
 Detail requirements
-High Level Requirements:
+# High Level Requirements:
 --- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
 
-Low level Requirements:
+# Low level Requirements:
