@@ -6,6 +6,8 @@ The system is equipped with a robust set of features like attendance tracking, l
 
 You will find both free and paid version of the higher education software for students on the market. We have listed out the best eight student record management system for you to choose from. 
 # Requirements
+![image](https://user-images.githubusercontent.com/81298446/114836343-2ac1fc00-9df0-11eb-8659-a492a26dcfb3.png)
+
 
 Some of the features that a student record management system offers
 
