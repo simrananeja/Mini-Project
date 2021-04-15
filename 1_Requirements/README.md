@@ -1,4 +1,4 @@
-What is Student Record Management System? 
+# What is Student Record Management System? 
 
 Student record management system is designed to help manage the daily school activities of recording and maintaining by automating it. It is also known as the student information system (SIS) or school records system (SRS). 
 
