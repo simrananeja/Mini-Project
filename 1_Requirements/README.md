@@ -70,6 +70,6 @@ Schools,Colleges,Tution Centres and Universities in almost all technologically d
 
 Detail requirements
 # High Level Requirements:
---- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
+
 
 # Low level Requirements:
