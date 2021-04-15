@@ -7,7 +7,7 @@ The system is equipped with a robust set of features like attendance tracking, l
 You will find both free and paid version of the higher education software for students on the market. We have listed out the best eight student record management system for you to choose from. 
 # Requirements
 
-some of the features that a student record management system offers
+Some of the features that a student record management system offers
 
 1. Admission Management
 
@@ -35,18 +35,18 @@ Research
 Cost and Features
 ![Description](Link to Pic) -- Content
 
-Defining Our System
-SWOT ANALYSIS
+
+# SWOT ANALYSIS
 
 ![image](https://user-images.githubusercontent.com/81298446/114833848-a0789880-9ded-11eb-9012-104cb3581395.png)
 
 
-4W's and 1'H
-Who:
+# 4W's and 1'H
+# Who:
 Administrators in Schools,Colleges,Tution Centres and Universities
 
 
-What:
+# What:
 
 To manage enormous amount of data, it becomes important to include a managing tool to your School,Colleges,Tution Centres and Universities. A Student Management System is solution to all the requirements a school work on. Various features like admission, attendance, fee collection library, examination, timetable, student performance report etc.
 The mission of the Student Information Management system is to create an integrated information technology
@@ -60,15 +60,15 @@ many other student-related data needs in a college. Our easy-to-use, integrated 
 used to reduce time spent on administrative tasks, as to concentrate on other skillful practical activities other than book
 worming. It can accept, process and generate reports at any given point of time accurately.
 
-When:
+# When:
 
 The earliest management system for schools was developed in 1978 by Raymond Bily while he was a student at Asheville High School, in Asheville, NC. It was initially developed by Philip Neal, a teacher at Lea Manor High School, from # 1982 to 1983. Bedfordshire County Council (Lea Manor's local education authority) then further developed the product, which began being used by other schools in 1984. In 1988, a commercial company, SIMS Ltd, was founded to further develop SIMS.SIMS Ltd was acquired by Capita Group in 1994. In December 2020, Capita decided to sell their Education Software Solutions business (whose flagship product is SIMS) to private equity house Montagu in an effort to reduce debts. Montagu have stated that they intend to continue developing SIMS with a plan to release the latest version, SIMS 8, after the acquisition process has completed.
 
-Where:
+# Where:
 
 The earliest management system for schools was developed in 1978 by Raymond Bily while he was a student at Asheville High School, in Asheville, NC. It was initially developed by Philip Neal, a teacher at Lea Manor High School, from # 1982 to 1983. Bedfordshire County Council (Lea Manor's local education authority) then further developed the product, which began being used by other schools in 1984. In 1988, a commercial company, SIMS Ltd, was founded to further develop SIMS.SIMS Ltd was acquired by Capita Group in 1994. In December 2020, Capita decided to sell their Education Software Solutions business (whose flagship product is SIMS) to private equity house Montagu in an effort to reduce debts. Montagu have stated that they intend to continue developing SIMS with a plan to release the latest version, SIMS 8, after the acquisition process has completed.
 
-How:
+# How:
 
 Schools,Colleges,Tution Centres and Universities in almost all technologically developing and developed nations.
 
