@@ -75,5 +75,6 @@ Detail requirements
 
 
 # Low level Requirements:
-![Screenshot (58)](https://user-images.githubusercontent.com/81298446/114996867-e81a2580-9ebc-11eb-9d03-1bf13c7f83a1.png)
+![Screenshot (58)](https://user-images.githubusercontent.com/81298446/114997091-1f88d200-9ebd-11eb-86b2-f0663a2676be.png)
+
 
