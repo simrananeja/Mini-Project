@@ -70,6 +70,8 @@ Schools,Colleges,Tution Centres and Universities in almost all technologically d
 
 Detail requirements
 # High Level Requirements:
+![Screenshot (56)](https://user-images.githubusercontent.com/81298446/114995766-c9fff580-9ebb-11eb-9a49-cd5bb9247eea.png)
+
 
 
 # Low level Requirements:
