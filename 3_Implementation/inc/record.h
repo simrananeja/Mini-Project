@@ -5,7 +5,7 @@
 #include<string.h>
 #include<stdlib.h>
 
-struct student
+typedef struct student
 {
     char name[20];
     char mobile[10];
@@ -14,16 +14,16 @@ struct student
     char branch[20];
 }s[30];
 
-void menu(struct student s[]);
+void menu();
 
-void add(struct student s[]);
+void add();
 
-void view(struct student s[]);
+void view();
 
-void search(struct student s[]);
+void search();
 
-void modify(struct student s[]);
+void modify();
 
-void deleterec(struct student s[]);
+void deleterec();
 
 #endif
