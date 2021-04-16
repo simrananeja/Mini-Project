@@ -10,7 +10,7 @@ void view();
 void search();
 void modify();
 void deleterec();
-struct student
+typedef struct student
 {
     char name[20];
     char mobile[10];
